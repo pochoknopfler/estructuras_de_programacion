@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019/10/31 15:34:32.730,=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019/10/31 15:34:34.063,=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2019/10/31 15:34:56.160,=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019/10/31 15:35:18.548,C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\arbol_.cpp=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019/10/31 15:35:18.548,C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\arbol_.h=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2019/10/31 15:35:34.359,C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\arbol_binario.h=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\arbol_.h</Transaction>
+    <Transaction>2019/10/31 15:35:34.359,C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\arbol_binario.cpp=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\arbol_.cpp</Transaction>
+    <Transaction>2019/10/31 15:35:42.065,C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\arbolPCH1.h=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019/10/31 15:35:42.179,C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\arbol.cbproj=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2019/10/31 15:44:17.194,C:\Users\LENOVO\Desktop\analista en sistemas\segundo año\progrmacion 2\Nueva carpeta\arbol_binario.cpp=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\arbol_binario.cpp</Transaction>
+    <Transaction>2019/10/31 15:44:17.194,C:\Users\LENOVO\Desktop\analista en sistemas\segundo año\progrmacion 2\Nueva carpeta\arbol_binario.h=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\arbol_binario.h</Transaction>
+    <Transaction>2019/10/31 15:44:34.025,C:\Users\LENOVO\Desktop\analista en sistemas\segundo año\progrmacion 2\Nueva carpeta\arbol.cpp=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2019/10/31 15:44:37.147,C:\Users\LENOVO\Desktop\analista en sistemas\segundo año\progrmacion 2\Nueva carpeta\arbolPCH1.h=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\arbolPCH1.h</Transaction>
+    <Transaction>2019/10/31 15:44:40.647,C:\Users\LENOVO\Desktop\analista en sistemas\segundo año\progrmacion 2\Nueva carpeta\arbol.cbproj=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\arbol.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

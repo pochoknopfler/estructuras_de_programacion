@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019/10/25 20:02:17.833,=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019/10/25 20:02:18.489,=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2019/10/25 20:02:29.795,=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019/10/25 20:02:36.728,C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\hash.cpp=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019/10/25 20:02:36.728,C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\hash.h=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2019/10/25 20:27:10.556,C:\Users\LENOVO\Desktop\analista en sistemas\segundo año\progrmacion 2\Nueva carpeta\hash.cpp=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\hash.cpp</Transaction>
+    <Transaction>2019/10/25 20:27:10.556,C:\Users\LENOVO\Desktop\analista en sistemas\segundo año\progrmacion 2\Nueva carpeta\hash.h=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\hash.h</Transaction>
+    <Transaction>2019/10/25 20:27:12.290,C:\Users\LENOVO\Desktop\analista en sistemas\segundo año\progrmacion 2\Nueva carpeta\File1.cpp=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2019/10/25 20:27:14.019,C:\Users\LENOVO\Desktop\analista en sistemas\segundo año\progrmacion 2\Nueva carpeta\Project1PCH1.h=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019/10/25 20:27:16.456,C:\Users\LENOVO\Desktop\analista en sistemas\segundo año\progrmacion 2\Nueva carpeta\Project1.cbproj=C:\Users\LENOVO\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
